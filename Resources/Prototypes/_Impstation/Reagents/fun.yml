@@ -203,6 +203,7 @@
       - !type:FactionChange
         faction: Passive
         conditions:
+        - !type:NPCEntityCondition
         - !type:ReagentCondition
           reagent: Irwizine
           min: 10
