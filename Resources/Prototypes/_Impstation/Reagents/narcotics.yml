@@ -33,6 +33,9 @@
       - !type:ModifyStatusEffect
         conditions:
         - !type:NPCEntityCondition
+        - !type:ReagentCondition
+          reagent: Barbadine
+          min: 6
         effectProto: StatusEffectForcedSleeping
         time: 5
         delay: 2

@@ -15,3 +15,6 @@ reagent-desc-brutoxidone = A cryogenics chemical. Used to treat severe brute dam
 
 reagent-name-clarified-phalanximine = clarified phalanximine
 reagent-desc-clarified-phalanximine = Phalanximine, refined through a dubiously legal and morally questionable technique. Reverses cellular damage at the same effectiveness as Phalanximine, with substantially lowered downsides.
+
+reagent-name-batozine = batozine
+reagent-desc-batozine = Changes how a non-sentient creature thinks to make it violent against anything that isn't syndicate. 
